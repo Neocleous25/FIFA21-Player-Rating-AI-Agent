@@ -1,5 +1,4 @@
-FIFA21 Player Rating Predictor + AI Agent 🎮
- 📁 Ai_Agent_FIFA21 DataSet
+🎮 FIFA21 Player Rating Predictor + AI Agent 🎮
 
 Χρησιμοποιήθηκε το DataSet **players_21.csv** από το FIFA21. Περιέχει χαρακτηριστικά παικτών όπως:
 
@@ -38,4 +37,4 @@ FIFA21 Player Rating Predictor + AI Agent 🎮
 
 ## 📽  Demo Video
 
-[Δές το βίντεο εδώ](https://youtu.be/oAxMoMxfkj4)]
+[Δές το βίντεο εδώ](https://youtu.be/oAxMoMxfkj4)
