@@ -12,22 +12,21 @@
 ## 📊 Machine Learning Project (`Machine Learning.ipynb`)
 
 - Επιλέχθηκαν χαρακτηριστικά: `age`, `height_cm`, `weight_kg`, `nationality`, `club_name`
-- Το target `overall` μετατράπηκε σε κατηγορία: **Low**, **Average**, **Top**
+- Το target `overall` μετατράπηκε σε κατηγορία: **Low** , **Top**
 - Κωδικοποίηση κατηγορικών (Label Encoding)
 - Χωρισμός training/test set
 - Εκπαίδευση με Random Forest Classifier (`class_weight="balanced"`)
-- Τελικό Accuracy: **92.2%**
+- Τελικό Accuracy: **89,6%**
 
 ## 🤖 AI Agent Project (`AI Agent Project.ipynb`)
 
 - Γεννά agent με τυχαία χαρακτηριστικά παικτών
 - Προβλέπει κατηγορία rating
 - Εμφανίζει αποτελέσματα με 🌐 emoji
-- Περιλαμβάνει what-if ανάλυση (π.χ. "τι θα γινόταν αν ήταν 190cm ψηλός")
 - Παράγει mini feedback σε φυσική γλώσσα:
   - 💡 Ηλικία: Παίκτης με εμπειρία ή αναπτυξιακό δυναμικό
   - 📏 Σωματικά: Πλεονεκτήματα (π.χ. για aerial duels) ή ανάγκη ενδυνάμωσης
-  - 📊 Απόδοση: Ανάλυση βάσει πρόβλεψης (Top, Average, Low)
+  - 📊 Απόδοση: Ανάλυση βάσει πρόβλεψης (Low , Top)
 
 ## 🔮 Πώς να το τρέξετε
 
@@ -37,4 +36,4 @@
 
 ## 📽  Demo Video
 
-[Δές το βίντεο εδώ](https://youtu.be/QCteFwQKcTw)
+[Δές το βίντεο εδώ](https://youtu.be/7OeAJuN8Y8I)
