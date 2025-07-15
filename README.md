@@ -37,4 +37,4 @@
 
 ## 📽  Demo Video
 
-[Δές το βίντεο εδώ](https://youtu.be/oAxMoMxfkj4)
+[Δές το βίντεο εδώ](https://youtu.be/QCteFwQKcTw)
