@@ -9,7 +9,7 @@
 - Σύλλογος (club_name)
 - Rating (overall)
 
-## 📊 Machine Learning Project
+## 📊 Machine Learning Project (`Machine Learning.ipynb`)
 
 - Επιλέχθηκαν χαρακτηριστικά: `age`, `height_cm`, `weight_kg`, `nationality`, `club_name`
 - Το target `overall` μετατράπηκε σε κατηγορία: **Low**, **Average**, **Top**
@@ -18,7 +18,7 @@
 - Εκπαίδευση με Random Forest Classifier (`class_weight="balanced"`)
 - Τελικό Accuracy: **92.2%**
 
-## 🤖 AI Agent Project
+## 🤖 AI Agent Project (`AI Agent Project.ipynb`)
 
 - Γεννά agent με τυχαία χαρακτηριστικά παικτών
 - Προβλέπει κατηγορία rating
@@ -31,9 +31,9 @@
 
 ## 🔮 Πώς να το τρέξετε
 
-1. Ανοίξτε το `AI_Agent_FIFA21.ipynb` στο Google Colab
-2. Τρέξτε όλα τα κελιά (Runtime → Run all)
-3. Δεν απαιτείται εγκατάσταση – εκτελείται πλήρως σε Colab
+1. Ανοίξτε τα αρχεία `Machine Learning.ipynb` και `AI Agent Project.ipynb` στο Google Colab
+2. Βεβαιωθείτε ότι έχετε ανεβάσει το dataset `players_21.csv` στο Google Drive
+3. Τρέξτε όλα τα κελιά (Run all)
 
 ## 📽  Demo Video
 
