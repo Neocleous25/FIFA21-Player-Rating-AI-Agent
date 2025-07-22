@@ -20,7 +20,7 @@
 
 ## 🤖 AI Agent Project (`AI Agent Project.ipynb`)
 
-- Γεννά agent με τυχαία χαρακτηριστικά παικτών
+- Γεννά agent με χρήση user input
 - Προβλέπει κατηγορία rating
 - Εμφανίζει αποτελέσματα με 🌐 emoji
 - Παράγει mini feedback σε φυσική γλώσσα:
